@@ -18,7 +18,7 @@ import streamlit as st
 st.title(" Perrin Freres sales of champagne")
 st.header("The dataset is monthly sales of champagne from year 1964 to 1972.")
 
-data = pd.read_csv('/Users/jonat/Documents/Data Engineer/Time Series/perrin-freres-monthly-champagne-.csv')
+data = pd.read_csv('/Users/jonat/Documents/TimeSeriesSales/perrin-freres-monthly-champagne-.csv')
 
 
 # In[3]:
